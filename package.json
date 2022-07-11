@@ -1,0 +1,16 @@
+{
+    "name": "logseq-theme-encom",
+    "description": "ENCOM theme for Logseq.",
+    "author": "perigrin",
+    "repo": "perigrin/logseq-theme-encom",
+    "logseq": {
+      "themes": [
+        {
+          "name": "ENCOM theme",
+          "url": "./custom.css",
+          "description": "ENCOM theme for Logseq.",
+          "mode": "dark"
+        }
+     ]
+    }
+  }
